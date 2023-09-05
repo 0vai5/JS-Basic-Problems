@@ -1,0 +1,10 @@
+* {
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  #input,
+  #output {
+    text-align: center;
+    font-size: 5vw;
+  }
