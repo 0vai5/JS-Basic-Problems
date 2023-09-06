@@ -1,12 +1,12 @@
 // problem 1: print all even and odd number between 0-10
 
-for(let i = 0; i<=11; i++){
-    if (i%2==0) {
-        console.log(i + " is even")
-    } else {
-        console.log(i + " is odd")
-    }
-}
+// for(let i = 0; i<=11; i++){
+//     if (i%2==0) {
+//         console.log(i + " is even")
+//     } else {
+//         console.log(i + " is odd")
+//     }
+// }
 
 // question 2: take a number from the user and print the multiplication table of the number given
 
@@ -93,3 +93,23 @@ for(let i = 0; i<=11; i++){
 // } else {
 //     console.log(false)
 // }
+
+
+// problem 10:Return the Sum of Two Numbers
+// const sum = (a, b)=>{
+//    return a + b;
+// }
+// console.log(sum(5,4))
+
+// problem 11:Convert Age to Days
+// const agetodays = (age)=>{
+//     return age*365;
+// }
+// console.log(agetodays(15))
+
+//problem 12: hours into seconds
+
+// function howManySeconds(hours) {
+// 	return hours*3600
+// }
+// console.log(howManySeconds(24))
