@@ -113,3 +113,9 @@
 // 	return hours*3600
 // }
 // console.log(howManySeconds(24))
+
+//problem 13: Return the first element of the array
+// function getFirstValue(arr) {
+// 	return arr[0]
+// }
+// getFirstValue(["ovais", "raza", "obaid", "raza"])
