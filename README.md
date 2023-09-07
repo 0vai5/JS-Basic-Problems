@@ -23,6 +23,7 @@ The problems are divided into 12 sections. Each section contains a different pro
 10. Return the Sum of Two Numbers
 11. Convert Age to Days
 12. Hours into seconds
+AND MORE....
 
 ## Solutions
 
