@@ -119,3 +119,26 @@
 // 	return arr[0]
 // }
 // getFirstValue(["ovais", "raza", "obaid", "raza"])
+
+//problem 14: Return the Remainder from Two Numbers
+
+// function remainder(x, y) {
+// 	return x%y
+// }
+
+// remainder(4,5)
+
+//problem 15:Add up the Numbers from a Single Number
+// function addUpToNum(n){
+//     let totalSum = n*(n+1)/2
+//     }
+//     console.log(addUpToNum(7));
+
+
+//problem 16: calculate the third edge of the triangle
+// function TriangleEdge(side1, side2){
+//     return side1+ side2 - 1
+//     }
+// console.log(TriangleEdge(12,16))
+
+
